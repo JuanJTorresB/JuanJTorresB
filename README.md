@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/9jSO3fa.png">
+<img src="https://imgur.com/Exf9sWJ">
 
 <h1 align="center">Hi 👋, I'm Juan José Torres Becerra</h1>
 <h3 align="center">A creative Backend developer from Colombia 🇨🇴</h3>
